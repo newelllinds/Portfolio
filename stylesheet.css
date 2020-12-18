@@ -1,0 +1,91 @@
+#logo {
+  padding-right: 35px;
+}
+
+.fab {
+  padding-bottom: 10px;
+}
+
+.fab:hover {
+  transform: scale(1.1) perspective(0px);
+}
+
+.section-padding {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+
+.paddingForNavToWork {
+  padding-top: 80px;
+}
+
+#contactMe {
+  display: block;
+  text-align: center;
+}
+
+.formControl {
+  width: 50%;
+  /* height: 34px; */
+  margin: 10px;
+}
+
+.resume {
+  display: block;
+  text-align: center;
+  padding-top: 100px;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  color: white;
+  text-decoration: none;
+}
+
+button {
+  color: white;
+  background-color: black;
+  padding-right: 15px;
+  padding-left: 15px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border: solid;
+  letter-spacing: 0.5px;
+  border-radius: 10px;
+}
+
+button:hover {
+  transform: scale(1.1) perspective(0px);
+}
+
+.footerContent {
+  display: block;
+  text-align: center;
+  border: none;
+  padding: 20px;
+  background-color: #e9ecef;
+}
+
+/* .jumbotron {
+  height: 100vh;
+} */
+
+.sectionTitles {
+  padding-bottom: 40px;
+}
+
+.social {
+  padding: 20px;
+}
+
+.card-img-top {
+  height: 300px;
+}
+
+.card-img-top:hover {
+  transform: scale(1.1) perspective(0px);
+}
